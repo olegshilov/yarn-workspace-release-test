@@ -3,6 +3,9 @@
   "version": "0.0.1-alpha.0",
   "main": "lib/index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "yarn tsc -p ./tsconfig.json"
+  },
   "devDependencies": {
     "typescript": "4.3.5"
   }
