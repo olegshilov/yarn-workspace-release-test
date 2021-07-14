@@ -3112,7 +3112,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lerna@npm:^4.0.0":
+"lerna@npm:4.0.0":
   version: 4.0.0
   resolution: "lerna@npm:4.0.0"
   dependencies:
@@ -5731,10 +5731,10 @@ typescript@4.3.5:
   languageName: unknown
   linkType: soft
 
-"yarn-workspace-release@workspace:.":
+"yarn-workspace-release-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "yarn-workspace-release@workspace:."
+  resolution: "yarn-workspace-release-test@workspace:."
   dependencies:
-    lerna: ^4.0.0
+    lerna: 4.0.0
   languageName: unknown
   linkType: soft
