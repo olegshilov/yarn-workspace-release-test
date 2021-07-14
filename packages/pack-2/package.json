@@ -1,0 +1,6 @@
+{
+  "name": "yarn-workspace-release-pack-2",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "license": "MIT"
+}
