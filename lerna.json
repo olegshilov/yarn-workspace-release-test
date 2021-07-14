@@ -1,5 +1,13 @@
 {
   "version": "independent",
   "packages": ["packages/*"],
-  "npmClient": "yarn"
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "changelogPreset": "./commitlint.config.js",
+      "message": "chore: release new version"
+    }
+  }
 }
