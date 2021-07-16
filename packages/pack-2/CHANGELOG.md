@@ -1,3 +1,10 @@
+## yarn-workspace-release-pack-2 [1.2.0](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-2@1.1.0...yarn-workspace-release-pack-2@1.2.0) (2021-07-16)
+
+
+### Features
+
+* **pack-2:** add more logs ([ce99bbc](https://github.com/olegshilov/yarn-workspace-release-test/commit/ce99bbc2aa838dcd32907bf31249210f214d5320))
+
 ## yarn-workspace-release-pack-2 [1.1.0](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-2@1.0.0...yarn-workspace-release-pack-2@1.1.0) (2021-07-16)
 
 
