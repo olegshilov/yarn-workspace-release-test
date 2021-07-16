@@ -5,6 +5,7 @@ module.exports = {
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
+    "@semantic-release/npm",
     [
       "@semantic-release/git",
       {
@@ -13,7 +14,6 @@ module.exports = {
           "chore(release): ${nextRelease.gitTag}\n\n${nextRelease.notes}\n\n[skip ci]",
       },
     ],
-    "@semantic-release/npm",
     "@semantic-release/github",
   ],
 };
