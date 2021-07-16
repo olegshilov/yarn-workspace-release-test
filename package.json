@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "build": "yarn workspace yarn-workspace-release-pack-2 build",
-    "release": "multi-semantic-release"
+    "release": "yarn multi-semantic-release"
   },
   "devDependencies": {
     "@qiwi/multi-semantic-release": "3.15.0",
