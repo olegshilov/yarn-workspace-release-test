@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "scripts": {
+    "build": "yarn workspace yarn-workspace-release-pack-2 build",
     "release": "multi-semantic-release"
   },
   "devDependencies": {
