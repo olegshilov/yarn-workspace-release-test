@@ -1,3 +1,10 @@
+## yarn-workspace-release-pack-1 [0.2.0](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-1@0.1.0...yarn-workspace-release-pack-1@0.2.0) (2021-07-16)
+
+
+### Features
+
+* **pack-1:** add new line ([b4ce9bb](https://github.com/olegshilov/yarn-workspace-release-test/commit/b4ce9bbb6efeca5a7f57a5aaaac567a85676d423))
+
 # yarn-workspace-release-pack-1 [0.1.0](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-1@0.0.1...yarn-workspace-release-pack-1@0.1.0) (2021-07-15)
 
 
