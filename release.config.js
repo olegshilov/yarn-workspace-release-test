@@ -1,9 +1,20 @@
 module.exports = {
-  branches: ["main", "next", "dev"],
-  preset: "conventionalcommits",
+  branches: ["main", "next"],
   plugins: [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        preset: "conventionalcommits",
+        presetConfig: {},
+      },
+    ],
+    [
+      "@semantic-release/release-notes-generator",
+      {
+        preset: "conventionalcommits",
+        presetConfig: {},
+      },
+    ],
     "@semantic-release/changelog",
     "@semantic-release/npm",
     [

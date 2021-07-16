@@ -1,6 +1,6 @@
 {
   "name": "yarn-workspace-release-test",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "workspaces": [
     "packages/*"
   ],
@@ -11,10 +11,20 @@
   "devDependencies": {
     "@qiwi/multi-semantic-release": "3.15.0",
     "@semantic-release/changelog": "5.0.1",
+    "@semantic-release/commit-analyzer": "8.0.1",
     "@semantic-release/git": "9.0.0",
     "@semantic-release/github": "7.2.3",
     "@semantic-release/npm": "7.1.3",
+    "@semantic-release/release-notes-generator": "9.0.3",
     "conventional-changelog-conventionalcommits": "4.6.0",
     "semantic-release": "17.4.4"
+  },
+  "dependenciesMeta": {
+    "@semantic-release/commit-analyzer@8.0.1": {
+      "unplugged": true
+    },
+    "@semantic-release/release-notes-generator@9.0.3": {
+      "unplugged": true
+    }
   }
 }
