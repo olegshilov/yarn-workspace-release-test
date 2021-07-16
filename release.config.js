@@ -20,5 +20,7 @@ module.exports = {
         assets: ["CHANGELOG.md", "package.json"],
       },
     ],
+    "@semantic-release/npm",
+    "@semantic-release/github",
   ],
 };
