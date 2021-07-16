@@ -1,3 +1,10 @@
+### yarn-workspace-release-pack-1 [0.2.1](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-1@0.2.0...yarn-workspace-release-pack-1@0.2.1) (2021-07-16)
+
+
+### Bug Fixes
+
+* **pack-2:** remove unnecessary text ([725bea1](https://github.com/olegshilov/yarn-workspace-release-test/commit/725bea152ff40730a2a40dcbf00350bc9ed55074))
+
 ## yarn-workspace-release-pack-1 [0.2.0](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-1@0.1.0...yarn-workspace-release-pack-1@0.2.0) (2021-07-16)
 
 
