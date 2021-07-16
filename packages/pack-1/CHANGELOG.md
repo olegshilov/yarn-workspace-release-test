@@ -1,3 +1,10 @@
+### yarn-workspace-release-pack-1 [0.2.3](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-1@0.2.2...yarn-workspace-release-pack-1@0.2.3) (2021-07-16)
+
+
+### Bug Fixes
+
+* **pack-1:** update header ([eee048e](https://github.com/olegshilov/yarn-workspace-release-test/commit/eee048ef35fbbf5849266a5dd9c3fa5582be509e))
+
 ### yarn-workspace-release-pack-1 [0.2.2](https://github.com/olegshilov/yarn-workspace-release-test/compare/yarn-workspace-release-pack-1@0.2.1...yarn-workspace-release-pack-1@0.2.2) (2021-07-16)
 
 
