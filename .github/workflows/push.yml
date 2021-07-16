@@ -24,4 +24,7 @@ jobs:
       - name: Build
         run: yarn build
       - name: Release
-        run: npm run release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: yarn release
